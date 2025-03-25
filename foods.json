@@ -1,0 +1,86 @@
+{
+    "Turkey Bacon": {
+        "Calories": 45,
+        "Protein": 6,
+        "Carbs": 0,
+        "Fat": 2.5
+    },
+    "Eggs": {
+        "Calories": 80,
+        "Protein": 7,
+        "Carbs": 0,
+        "Fat": 5
+    },
+    "Yogurt": {
+        "Calories": 100,
+        "Protein": 18,
+        "Carbs": 6,
+        "Fat": 0
+    },
+    "Granola": {
+        "Calories": 160,
+        "Protein": 4,
+        "Carbs": 9,
+        "Fat": 16
+    },
+    "Coconut Flakes": {
+        "Calories": 70,
+        "Protein": 1,
+        "Carbs": 8,
+        "Fat": 4
+    },
+    "Maple Syrup": {
+        "Calories": 110,
+        "Protein": 0,
+        "Carbs": 26,
+        "Fat": 0
+    },
+    "Peanut Butter": {
+        "Calories": 200,
+        "Protein": 8,
+        "Carbs": 7,
+        "Fat": 16
+    },
+    "Bagel": {
+        "Calories": 320,
+        "Protein": 11,
+        "Carbs": 65,
+        "Fat": 1.5
+    },
+    "Protein Powder": {
+        "Calories": 150,
+        "Protein": 25,
+        "Carbs": 5,
+        "Fat": 3
+    },
+    "Milk": {
+        "Calories": 80,
+        "Protein": 13,
+        "Carbs": 6,
+        "Fat": 0
+    },
+    "Caesar Dressing": {
+        "Calories": 130,
+        "Protein": 1,
+        "Carbs": 1,
+        "Fat": 13
+    },
+    "Parmesean Cheese": {
+        "Calories": 20,
+        "Protein": 2,
+        "Carbs": 0,
+        "Fat": 1.5
+    },
+    "Chicken": {
+        "Calories": 165,
+        "Protein": 31.0,
+        "Carbs": 0.0,
+        "Fat": 3.6
+    },
+    "Steak": {
+        "Calories": 175,
+        "Protein": 22.8,
+        "Carbs": 0.0,
+        "Fat": 6.4
+    }
+}
