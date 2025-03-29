@@ -2,7 +2,7 @@ import json
 import random
 
 def load_characters(filename="marvel_rivals_characters.json"):
-        with open(filename, "r") as file:
+        with open("MarvelRivalsRoulette/" + filename, "r") as file:
             data = json.load(file)
         
         return data["marvel_rivals_characters"]

@@ -1,0 +1,26 @@
+{
+    "marvel_rivals_characters": [
+        {"name": "Bruce Banner", "class": "Vanguard"},
+        {"name": "Doctor Strange", "class": "Vanguard"},
+        {"name": "Groot", "class": "Vanguard"},
+        {"name": "The Thing", "class": "Vanguard"},
+        {"name": "Magneto", "class": "Vanguard"},
+        {"name": "Penni Parker", "class": "Vanguard"},
+        {"name": "Black Panther", "class": "Duelist"},
+        {"name": "Hela", "class": "Duelist"},
+        {"name": "Iron Man", "class": "Duelist"},
+        {"name": "Magik", "class": "Duelist"},
+        {"name": "Namor", "class": "Duelist"},
+        {"name": "The Punisher", "class": "Duelist"},
+        {"name": "Scarlet Witch", "class": "Duelist"},
+        {"name": "Spider-Man", "class": "Duelist"},
+        {"name": "Star-Lord", "class": "Duelist"},
+        {"name": "Storm", "class": "Duelist"},
+        {"name": "The Human Torch", "class": "Duelist"},
+        {"name": "Loki", "class": "Strategist"},
+        {"name": "Luna Snow", "class": "Strategist"},
+        {"name": "Invisible Woman", "class": "Strategist"},
+        {"name": "Mantis", "class": "Strategist"},
+        {"name": "Rocket Raccoon", "class": "Strategist"}
+    ]
+}
