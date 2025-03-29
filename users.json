@@ -1,0 +1,14 @@
+{
+    "Conner": {
+        "Calories": 1900,
+        "Protein": 180.0,
+        "Carbs": 80.0,
+        "Fat": 50.0
+    },
+    "Luke": {
+        "Calories": 10000,
+        "Protein": 900.0,
+        "Carbs": 50.0,
+        "Fat": 50.0
+    }
+}

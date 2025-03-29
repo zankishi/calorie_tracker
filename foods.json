@@ -1,4 +1,21 @@
 {
+    "Meals": {
+        "Protein Shake": {
+            "Milk": 1,
+            "Protein Powder": 1,
+            "Peanut Butter Powder": 1
+        },
+        "Breakfast": {
+            "Turkey Bacon": 3,
+            "Eggs": 2,
+            "Egg Whites": 1,
+            "Cottage Cheese": 1,
+            "Yogurt": 1,
+            "Maple Syrup": 1,
+            "Coconut Flakes": 1,
+            "Granola": 1
+        }
+    },
     "Turkey Bacon": {
         "Calories": 45,
         "Protein": 6,
@@ -54,10 +71,10 @@
         "Fat": 3
     },
     "Milk": {
-        "Calories": 80,
-        "Protein": 13,
-        "Carbs": 6,
-        "Fat": 0
+        "Calories": 160,
+        "Protein": 8,
+        "Carbs": 12,
+        "Fat": 8
     },
     "Caesar Dressing": {
         "Calories": 130,
@@ -82,5 +99,29 @@
         "Protein": 22.8,
         "Carbs": 0.0,
         "Fat": 6.4
+    },
+    "Sweet Potato": {
+        "Calories": 135,
+        "Protein": 2,
+        "Carbs": 33,
+        "Fat": 0.1
+    },
+    "Peanut Butter Powder": {
+        "Calories": 60,
+        "Protein": 6.0,
+        "Carbs": 5.0,
+        "Fat": 1.5
+    },
+    "Cottage Cheese": {
+        "Calories": 80,
+        "Protein": 13.0,
+        "Carbs": 5.0,
+        "Fat": 0.0
+    },
+    "Egg Whites": {
+        "Calories": 20,
+        "Protein": 5.0,
+        "Carbs": 0.0,
+        "Fat": 0.0
     }
 }
